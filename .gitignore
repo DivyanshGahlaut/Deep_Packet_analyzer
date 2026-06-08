@@ -1,0 +1,13 @@
+# Executables
+*.exe
+
+# Capture files
+*.pcap
+filtered_traffic.pcap
+filtered.pcap
+output.pcap
+test_dpi.pcap
+
+# Reports
+*.json
+report.json
